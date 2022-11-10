@@ -106,9 +106,9 @@ body {
 #sidebar {
     top: 10%;
     position: absolute;
-    width: calc(100% - 90%);
-    max-width: calc(100% - 90%);
-    min-width: calc(100% - 90%);
+    width: calc(100% - 87%);
+    max-width: calc(100% - 87%);
+    min-width: calc(100% - 87%);
     max-height: 80%;
     padding: 15px;
     background-color: rgb(245, 183, 177);
@@ -122,7 +122,7 @@ body {
     vertical-align: middle;
     width: calc(100% - 30%);
     padding: 10px;
-    margin-left: 17%;
+    margin-left: 20%;
     max-width: calc(100% - 40%);
     min-width: calc(100% - 20%);
     /* height: calc(100% - 10%); */
